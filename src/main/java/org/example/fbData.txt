@@ -1,0 +1,24 @@
+P Michael 0
+P John 1
+P Jermaine 0
+P Annie 1
+P Samantha 1
+P Alaina 1
+P Mary 0
+P Kathryn 0
+F Kathryn Alaina
+F Samantha Kathryn
+F Samantha John
+F Samantha Jermaine
+F Annie Jermaine
+F Samantha Michael
+F John Jermaine
+F Alaina John
+F Mary Jermaine
+U Annie Jermaine
+L Annie
+L Samantha
+V Jermaine
+Q Jermaine John
+Q Alaina John
+Q John Michael
